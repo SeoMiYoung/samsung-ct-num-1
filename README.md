@@ -1,7 +1,8 @@
 ### 2025
 - [2025 하반기 오전 1번] 택배 하차 `중력` `시뮬레이션`
    - [1회차](https://github.com/Adehanbungukaboja/Adehanbungukaboja/pull/90) ✅
-- [2025 하반기 오후 1번] AI 로봇청소기
+- [2025 하반기 오후 1번] AI 로봇청소기 `시뮬레이션` `BFS`
+   - [1회차](https://velog.io/@seomiyoung1124/2025-%ED%95%98%EB%B0%98%EA%B8%B0-%EC%98%A4%ED%9B%84-1%EB%B2%88-AI-%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0) ✅
 - [2025 상반기 오전 1번] 민트 초코 우유
 - [2025 상반기 오후 1번] 미생물 연구
 
