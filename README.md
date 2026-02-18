@@ -3,7 +3,7 @@
    - [1회차/2026.01.10](https://github.com/Adehanbungukaboja/Adehanbungukaboja/pull/90) ✅
 - [2025 하반기 오후 1번] AI 로봇청소기 `시뮬레이션` `BFS`
    - [1회차/2026.02.16](https://velog.io/@seomiyoung1124/2025-%ED%95%98%EB%B0%98%EA%B8%B0-%EC%98%A4%ED%9B%84-1%EB%B2%88-AI-%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0) ✅
-- [2025 상반기 오전 1번] 민트 초코 우유
+- [2025 상반기 오전 1번] 민트 초코 우유 `시뮬레이션` `BFS`
    - [1회차/2026.02.18](https://velog.io/@seomiyoung1124/2025-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%98%A4%EC%A0%84-1%EB%B2%88JAVA-%EB%AF%BC%ED%8A%B8-%EC%B4%88%EC%BD%94-%EC%9A%B0%EC%9C%A0-8ybonktu) ✅
 - [2025 상반기 오후 1번] 미생물 연구
 
