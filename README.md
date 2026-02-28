@@ -5,7 +5,8 @@
    - [1회차/2026.02.16](https://velog.io/@seomiyoung1124/2025-%ED%95%98%EB%B0%98%EA%B8%B0-%EC%98%A4%ED%9B%84-1%EB%B2%88-AI-%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0) ✅
 - [2025 상반기 오전 1번] 민트 초코 우유 `시뮬레이션` `BFS` `HashSet`
    - [1회차/2026.02.18](https://velog.io/@seomiyoung1124/2025-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%98%A4%EC%A0%84-1%EB%B2%88JAVA-%EB%AF%BC%ED%8A%B8-%EC%B4%88%EC%BD%94-%EC%9A%B0%EC%9C%A0-8ybonktu) ✅
-- [2025 상반기 오후 1번 👀] 미생물 연구
+- [2025 상반기 오후 1번 👀] 미생물 연구 `BFS` `Simulation` `HashSet` `상대좌표`
+   - [1회차/2026.02.28](https://velog.io/@seomiyoung1124/2025-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%98%A4%ED%9B%84-1%EB%B2%88JAVA-%EB%AF%B8%EC%83%9D%EB%AC%BC-%EC%97%B0%EA%B5%AC) ✅
 
 ### 2024
 - [2024 하반기 오전 1번] 미지의 공간 탈출
